@@ -2,6 +2,12 @@
 
 A powerful, voice-controlled AI assistant with advanced automation capabilities, built with Python and PyQt5.
 
+<div align="center">
+  <img src="Frontend/Graphics/Jarvis.gif" alt="Jarvis Assistant Demo" width="600">
+  <p><em>🎙️ Voice-controlled AI assistant with beautiful animated interface</em></p>
+</div>
+
+
 ## 🌟 Features
 
 ### 🎯 **Core Capabilities**
