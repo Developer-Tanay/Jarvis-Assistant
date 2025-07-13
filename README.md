@@ -50,8 +50,8 @@ A powerful, voice-controlled AI assistant with advanced automation capabilities,
 ### 1. **Clone Repository**
 
 ```bash
-git clone <repository-url>
-cd Jarvis-Assistent1
+git clone https://github.com/Developer-Tanay/Jarvis-Assistant.git
+cd Jarvis-Assistent
 ```
 
 ### 2. **Install Dependencies**
